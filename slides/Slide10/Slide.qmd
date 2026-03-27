@@ -1,0 +1,10 @@
+---
+title: "Slide"
+format: html
+---
+
+# Early warning for Instrumental Issues
+
+- Able to identify failing lasers well in advance, and schedule our PM visits. 
+
+- Similarly, when SpectroFlo bead lot 2006 was introduced, noticed the %RCV spikes on the last detectors, which we tracked down to residual bleach in lines damaging the QC beads. 

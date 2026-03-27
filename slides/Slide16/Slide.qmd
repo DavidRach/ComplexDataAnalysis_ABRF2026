@@ -1,0 +1,12 @@
+---
+title: "Slide"
+format: html
+---
+
+# Acknowledgements
+
+- I want to acknowledge the UMGCCC FCSR, Dr. Xiaoxuan Fan, Natarajan Ayithan, Mikalya Trainor. 
+
+- Similarly acknowlegde my thesis mentors Drs. Cristiana Cairo and Kirsten Lyke. 
+
+- Flow Cytometry Reddit, Cytometry Discord, and Bioconductor Zulip communities for inspiring the investigation of many of these rabbit holes

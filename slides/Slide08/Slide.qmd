@@ -1,0 +1,13 @@
+---
+title: "Slide"
+format: html
+---
+
+# Residual Autofluorescence Contamination in Single-Color Signatures
+
+- Additionally, ability to profile signatures led to additional caveat to best practices for unmixing controls
+
+- Where fluorophore is dim, and the antigen density low, even when gating brightest cells, signatures still end up with substantial autofluorescence contamination in their final signatures. 
+
+- When pinpointing for 29 - 40 color panels, switching these controls for beads substantially improved unmixing. 
+

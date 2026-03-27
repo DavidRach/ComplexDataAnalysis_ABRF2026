@@ -1,0 +1,12 @@
+---
+title: "Slide"
+format: html
+---
+
+# CytometryInR
+
+- Since February, we have been offering a free weekly Cytometry in R course, offered in person and online via YouTube. It is aimed at those with prior cytometry experience, but no to little coding experience. 
+
+- All code and recordings are available online, and will remain freely available after course wraps. 
+
+- We hope this will make others self-learning journeys far smoother than the one we had to experience when first getting started. 

@@ -1,0 +1,14 @@
+---
+title: "Slide"
+format: html
+---
+
+# Not an isolated event
+
+- Having the .fcs files for before and after for last several years, retrospectively back-checking
+
+- While not same extent, identified other likely damaged QC events.
+
+- For each of these, simulation experiments suggest would have impacted the unmixing, and users would have been left perplexed what went wrong. 
+
+- Working on ways to preemptively flag these days before additional efforts are lost. 

@@ -1,0 +1,18 @@
+---
+title: "Slide"
+format: html
+---
+
+# Our efforts at University of Maryland, Baltimore
+
+- Over past 3 years, working to develop software tools for both individual researchers, and shared-resource laboratory staff, to characterize, flag and correct these types of issues before we unmix.
+
+- Work has been primarily been done in R programming language, building off existing Bioconductor infrastructure support. 
+
+- Focus has been on 
+
+1) Stability of our single-colors
+
+2) Isolating multiple autofluorescences
+
+3) Enhancing Instrument QC assessment. 

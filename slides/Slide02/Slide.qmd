@@ -1,0 +1,19 @@
+---
+title: "Slide"
+format: html
+---
+
+# Complex Datasets, Combinatorially Exponential
+
+- If you are **interested in only a specific cell population**, **analysis** of SFC data remains essentially **unchanged**. 
+
+- If your goal is to **profile ALL the cell populations** present, the depth and breadth of these **complex datasets pose additional challenges**. 
+
+- If for every marker, cells were split into **positive and negative populations**, and we **grouped cells that shared expression of every single marker**, a **9-color panel** could theoretically have up to **512** of these clusters. 
+
+- By contrast, a **40-color SFC panel** could theoretically have up to a **trillion clusters**
+
+- As this is **beyond any graduate students** ability to gate, inevitably, **semi-supervised and unsupervised algorithmic analytic approaches** are needed for the analysis. 
+
+
+

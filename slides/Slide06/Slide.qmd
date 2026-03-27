@@ -1,0 +1,19 @@
+---
+title: "Slide"
+format: html
+---
+
+# Normalized Fluorescent Signatures of Individual Cells
+
+- One of these projects has been our R package Luciernaga
+
+- Permits characterizing individual cells by their normalized fluorescent signature, and we can then cluster together cells that share similar spectral peaks and shared height.
+
+- When tandem fluorophore is behaving, the number of "clustered" normalized signatures present in a raw single-color unmixing control are only a few at most
+
+- As the tandem fluorophore decouples, the resulting number of resulting downstream signatures increases, permitting to flag poor quality single-color controls before using them in our antibody mix and wasting specimens
+
+- Over the winter, we have extended this ability to check fluorophore signatures in an automated fashion, on the off-hours retrieving the reference controls from individual users experiments via SpectroFlo data folder, parsing, and permitting us to flag issues for our users before they come to us with unmixing issues. 
+
+
+

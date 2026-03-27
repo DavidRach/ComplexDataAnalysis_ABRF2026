@@ -1,0 +1,10 @@
+---
+title: "Slide"
+format: html
+---
+
+# No cell left behind
+
+- But once resolve issues that introduce unmixing errors (whether single-colors, autofluorescence or instrumental), what next?
+
+- Analyze every cell in specimen, approaches beyond "try a cluster number of 7 and see what happens". Semi-supervised approach that combines in manual-style gating information at the individual cell level, which has permitted us to test unsupervised algorithms parameters as well as identify specimens where entire populations died off due to poor cryopreservation. 

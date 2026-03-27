@@ -1,0 +1,17 @@
+---
+title: "Slide"
+format: html
+---
+
+# What specifically caused this unmixing error
+
+- Current quality control algorithms focus on detecting fluidic and laser issues
+
+- Despite critical importance fluorescent signatures, few tools exist to preemptively screen unmixing controls before unmixing
+
+- Whether its vial tandem fluorophore degrading, an additional autofluorescence, or instrument QC issue, left to stare at unmixing error without easy approach to discern cause. 
+
+- Introduced unmixing errors loss resolution, conflicts downstream for unsupervised algorithms attempting to normalize, cluster and dimensionality visualize. 
+
+
+

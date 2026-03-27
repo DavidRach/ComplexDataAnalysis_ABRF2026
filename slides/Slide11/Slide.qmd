@@ -1,0 +1,14 @@
+---
+title: "Slide"
+format: html
+---
+
+# When QC goes wrong
+
+- Stripped off an APC-Fire like fluorophore
+
+- QC didn't meet target goals for those detectors, ramped up until baseline matched
+
+- But the instrument hadn't really changed, so gains overamplified from where they needed to be
+
+- Unmixing mayhem, experiments, specimens, reagents and time lost. 

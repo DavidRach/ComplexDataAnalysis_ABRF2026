@@ -1,0 +1,12 @@
+---
+title: "Slide"
+format: html
+---
+
+# Isolating multiple autofluorescences
+
+- We can extend this same ability to isolate cells based on normalized spectral signatures to unstained controls in an automated fashion
+
+- As the return file is fully .fcs standard compliant, they can be used downstream for unmixing. 
+
+- Unlike approaches use AF explorer, or dimensionality visualized islands, the isolated cells share autofluorescence signature, only differing in brightness. 

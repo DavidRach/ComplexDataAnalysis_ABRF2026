@@ -1,0 +1,12 @@
+---
+title: "Slide"
+format: html
+---
+
+# InstrumentQC
+
+- Inherent in this approach to signature comparsion, is assumption spectral cytometers are stably maintaining to QC target values over time. 
+
+- Leveraged before and after acquired .fcs files of the QC beads, building dashboard showcasing levey-jennings plots for all the instruments at our core. Automated to process every day, and render to sharable website. 
+
+- 

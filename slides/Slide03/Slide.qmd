@@ -1,0 +1,14 @@
+---
+title: "Slide"
+format: html
+---
+
+# A deal with the Spectral Devil
+
+- Typically, Cytometry **"borrows" its algorithms** from other fields, typically single-cell RNA-seq. 
+
+- However, in process of acquiring **immense potential for biological discovery**, SFC made a important **tradeoff**. 
+
+- The **quality of our final dattase** is inherent to our **ability to resolve the fluorophores present** on an individual cell. 
+
+- As a consequence, our **unmixing controls** capacity to **match** the spectral signature of the **respective fluorophore** as seen on **full-stain cells** is critical to the final outcome.

@@ -1,0 +1,14 @@
+---
+title: "Slide"
+format: html
+---
+
+# Spectral Flow Cytometry (SFC) is Amazing!
+
+- Thanks to its ability to **resolve spectrally similar flurophores**, it can **profile far more markers** per panel than **conventional flow cytometry (CFC)**
+
+- Thanks to its **rapid acquisition speed**, is able to **accumulate far more events** per minute than **mass cytometry (MC)**
+
+- The resulting more complex dataset **permits** us to **profile** not only **rare cell subsets** we previously couldn't easily characterize, but also **millions of other cells** that are often acquired **in those same samples**
+
+- When working with **human clinical samples**, where **biospecimen is limited**, and often that sample is it, this can be **invaluable**. 

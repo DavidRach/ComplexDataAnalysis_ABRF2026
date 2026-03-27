@@ -1,0 +1,10 @@
+---
+title: "Slide"
+format: html
+---
+
+# Wrapping Up Loose Ends
+
+- Some of the areas we have been actively working in, in our commitment to open-science and open-source process of testing the R packages before submitting them to the Bioconductor repository and publishing manuscripts
+
+- However, we realize that although many cytometrist express interest in learning R, few of us are at institutions with existing computational cytometry expertise, and most self-study attempts end in frustration
