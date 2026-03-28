@@ -67,3 +67,18 @@ plot(code)
 ```{r}
 print("Goodbye")
 ```
+
+
+
+# YouTube
+
+```{r}
+code <- qr_code("https://github.com/DavidRach/")
+
+generate_svg(code, filename = "images/DavidRachQR.svg")
+plot(code)
+```
+
+```{r}
+print("Goodbye")
+```
