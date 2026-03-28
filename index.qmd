@@ -4,3 +4,66 @@ format: html
 ---
 
 This is the website landing page for the ABRF 2026 repository. 
+
+```{r}
+library(qrcode)
+```
+
+
+# QC Dashboard
+
+```{r}
+code <- qr_code("https://umgccfcss.github.io/InstrumentQC/")
+
+generate_svg(code, filename = "images/InstrumentQCQR.svg")
+plot(code)
+```
+
+# QC How-To
+
+```{r}
+code <- qr_code("https://davidrach.github.io/InstrumentQC_Install/")
+
+generate_svg(code, filename = "images/InstrumentQCHowToQR.svg")
+plot(code)
+```
+
+# Luciernaga
+
+```{r}
+code <- qr_code("https://github.com/DavidRach/Luciernaga")
+
+generate_svg(code, filename = "images/LuciernagaQR.svg")
+plot(code)
+```
+
+# Coereba
+
+```{r}
+code <- qr_code("https://github.com/DavidRach/Coereba")
+
+generate_svg(code, filename = "images/CoerebaQR.svg")
+plot(code)
+```
+
+# CytometryInR
+
+```{r}
+code <- qr_code("https://umgcccfcsr.github.io/CytometryInR/Schedule.html")
+
+generate_svg(code, filename = "images/CytometryInRWebsiteQR.svg")
+plot(code)
+```
+
+# YouTube
+
+```{r}
+code <- qr_code("https://youtube.com/playlist?list=PL7tGF31b_cVqEkSLFvAX3kbtzUVpMe-VB&si=Xi1_x18JjzTaIMd_")
+
+generate_svg(code, filename = "images/CytometryInRYouTubeQR.svg")
+plot(code)
+```
+
+```{r}
+print("Goodbye")
+```
