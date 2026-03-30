@@ -79,6 +79,33 @@ generate_svg(code, filename = "images/DavidRachQR.svg")
 plot(code)
 ```
 
+# Discord
+
+```{r}
+code <- qr_code("https://discord.gg/ZmyPYUQr9Q/")
+
+generate_svg(code, filename = "images/DiscordQR.svg")
+```
+
+# Reddit
+
+```{r}
+code <- qr_code("https:/reddit.com/r/flowcytometry/new")
+
+generate_svg(code, filename = "images/RedditQR.svg")
+```
+
+
+# FITC Zombie Green Paper 
+
+```{r}
+code <- qr_code("https://www.jci.org/articles/view/139298/sd/1")
+
+generate_svg(code, filename = "images/ZombieQR.svg")
+```
+
+
+
 ```{r}
 print("Goodbye")
 ```
