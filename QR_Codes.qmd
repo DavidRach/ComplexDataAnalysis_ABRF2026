@@ -1,9 +1,9 @@
 ---
-title: "Landing Page"
+title: "QR codes"
 format: html
 ---
 
-This is the website landing page for the ABRF 2026 repository. 
+This page was for generating the QR codes present for the ABRF 2026 talk. 
 
 ```{r}
 library(qrcode)
