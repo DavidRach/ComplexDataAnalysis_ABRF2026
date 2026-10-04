@@ -20,8 +20,8 @@ website:
     left:
       - text: "Home"
         href: https://davidrach.github.io/      
-      - text: Poster
-        href: https://davidrach.github.io/CytometryInR_Cyto2026/DavidRach_FinalCyto2026.pdf
+      - text: Slides
+        href: https://davidrach.github.io/ComplexDataAnalysis_ABRF2026/ABRF_2026.pdf
     right:
       - href: https://davidrach.github.io/about.html
         text: About

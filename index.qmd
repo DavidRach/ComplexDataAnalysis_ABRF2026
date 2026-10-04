@@ -16,7 +16,7 @@ sidebar: false
 
 This is the repository for our Cyto 2026 "Cytometry in R" late-breaker poster. 
 
-Click [here]() to navigate to the slides, which can be downloaded. 
+Click [here](/ABRF_2026.pdf) to navigate to the slides, which can be downloaded. 
 
 For our Cytometry in R course, click [here](https://umgcccfcsr.github.io/CytometryInR/course/). 
 
