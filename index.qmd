@@ -10,12 +10,14 @@ toc-depth: 4
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 </div>
 
+[Slides](/ABRF_2026.pdf)
+
 ## Abstract
 
 As flow cytometry advances with new technologies and techniques, the data generated becomes increasingly rich and complex. This session features a panel of three speakers who are tackling these modern datasets head-on. The presentations are designed not only to inform attendees about the current state of the field but to inspire them to engage with these powerful tools. By breaking down the "art" of dealing with complex data, this session aims to strip away the intimidation factor and make high-dimensional analysis accessible to the wider flow community.
 
 [Code](https://github.com/DavidRach/ComplexDataAnalysis_ABRF2026) 
-[Slides](/ABRF_2026.pdf) 
+[Slides](https://davidrach.github.io/ABRF_2026.pdf) 
 [Recording](https://youtu.be/l9LQZ52gv3k?t=3699)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/l9LQZ52gv3k?si=Y4deP39xas7tucSO&amp;start=3707" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
