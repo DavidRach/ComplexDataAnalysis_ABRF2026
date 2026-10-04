@@ -7,7 +7,6 @@ website:
   google-analytics: "G-LZ35J3XE4D"
   title: "David Rach"
   page-navigation: true 
-  site-path: "/ComplexDataAnalysis_ABRF2026/"
   announcement: 
     icon: info-circle
     dismissable: true
